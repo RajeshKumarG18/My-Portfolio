@@ -49,7 +49,7 @@ Deployed on [GitHub Pages](YOUR_GITHUB_USERNAME.github.io/portfolio-website) (up
 
 ### Installation
 ```bash
-cd \"Portfolio Website\"
+cd \"My Portfolio Website\"
 npm install
 ```
 
@@ -125,8 +125,8 @@ This project is [MIT](LICENSE) licensed - feel free to use as inspiration!
 
 ## Connect
 
-- [LinkedIn](https://linkedin.com/in/rajeshkumarg)
-- [GitHub](https://github.com/YOUR_USERNAME)
+- [LinkedIn](https://www.linkedin.com/in/18rajeshkumarg)
+- [GitHub](https://github.com/RajeshKumarG18)
 - Email: rajesh.kumar@techpearl.com
 
 ---
